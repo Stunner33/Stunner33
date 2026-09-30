@@ -1,8 +1,8 @@
 # Hi there 👋
  - 🔭 I’m currently working on **Full-stack development**  
  - 👯 I’m looking to collaborate on **open-source projects**  
- - 🌱 I’m currently learning **Devops and Penetration Testing**  
- - 💬 Ask me about **Cybersecurity,web-dev and Linux stuff**
+ - 🌱 I’m currently learning **AI Agents and ML**  
+ - 💬 Ask me about **AI/ML,web-dev, web-3 and Linux stuff**
  - 📫 Contact me here: 
 <a href="mailto:roshanpoojariedu@gmail.com" title="Gmail"><img alt="Gmail" src="https://skillicons.dev/icons?i=gmail" height="30" align="center"/>
 
